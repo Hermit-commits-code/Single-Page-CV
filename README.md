@@ -24,13 +24,17 @@ This project is a single-page CV (Curriculum Vitae) website. It is designed to s
 To get started with this project, follow these steps:
 
 1. Clone the repository:
+
    ```sh
    git clone <repository-url>
    ```
+
 2. Navigate to the project directory:
+
    ```sh
    cd single-page-cv
    ```
+
 3. Open `index.html` in your browser to view the CV.
 
 ## Usage
